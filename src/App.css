@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color: #282c34;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+.drum-pad:hover {
+  background-color: #45a049;
+}
